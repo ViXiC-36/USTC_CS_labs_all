@@ -16,3 +16,4 @@ Some sharings of my labs & assignments in USTC. Check them out in the X branch.
 * Machine Learning/王翔，何向南/2024fall **\[done\]**
 * Formal Methods/黄文超，熊焰/2025spring **\[done but in another repo\]**
 * Database/金培权/2025spring **\[done but in another repo\]**
+* Artificial Intelligence/吉建明，孙达/2025spring **\[done but in another repo\]**
